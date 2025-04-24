@@ -118,4 +118,4 @@ ShopApp/
 ## Admin Access
 
 - **Username**: admin
-- **Password**: 1122 
+- **Password**: admin 
