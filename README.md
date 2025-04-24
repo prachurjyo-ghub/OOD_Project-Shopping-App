@@ -5,7 +5,7 @@ A Java Swing application for managing a shop with multiple categories of items, 
 ## Features
 
 - User Registration and Login
-- Admin Login (Password: 1122)
+- Admin Login (Password: admin)
 - Guest Mode (Browse but cannot purchase)
 - Multiple Item Categories:
   - Grocery
